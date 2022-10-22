@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="35px" height="35px">, it's <a href="https://zahidalidev.github.io/profile">Zahid Ali</a></h1>
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="35px" height="35px">, it's <a href="https://zahidalidev.github.io/profile">Zahid</a></h1>
 <h3 align="center">
 Highly-skilled technical leader with demonstrated expertise in backend and frontend development within fast-paced environments.
 Being an aspiring full-stack JavaScript Developer, I dabble with React.js, React-Native, Next.js, Node.js, & Express.js.
