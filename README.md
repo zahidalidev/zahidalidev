@@ -9,7 +9,7 @@ Being an aspiring full-stack JavaScript Developer, I dabble with React.js, React
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidalidev&theme=darkhub" alt="zahidalidev" /></a> </p>
 
 - 🎓 I’m graduated from <a href="https://www.uet.edu.pk/">University of Engineering and Technology, Lahore, Pakistan.</a>
-- 💬 Ask me about **React.js, React-Native, TypeScript, Next.js, Node.js, Express.js, Nest.js, Docker & AWS**
+- 💬 Ask me about **React.js, React-Native, TypeScript, Next.js, Node.js, Express.js, Nest.js, RESTful APIs, Firebase (Firestore), MongoDB, Git, Docker & AWS**
 - ❤️ I am an open-source contributor and that's why I love to build open-source products. I am also a regular Hacktoberfest participant.
 
 - 📫 How to reach me **m.zahidalidev@gmail.com**
